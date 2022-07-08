@@ -1,0 +1,14 @@
+{
+    "name": "zanbaldwin/sec-adv-package-test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zan Baldwin",
+            "email": "hello@zanbaldwin.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "5.0.2"
+    }
+}
